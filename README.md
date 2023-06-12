@@ -14,9 +14,9 @@ Este es mi portafolio personal, una página web desarrollada utilizando HTML, CS
 
 Aquí se presentan algunas capturas de pantalla de la página principal y las secciones principales del portafolio:
 
-![Página principal](Imagenes/img1.png)
+![Página principal](Imagenes/Img1.png)
 
-![Sección "Contactos"](Imagenes/img2.png)
+![Sección "Contactos"](Imagenes/Img2.png)
 
 ## Instalación
 
